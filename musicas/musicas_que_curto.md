@@ -1,9 +1,8 @@
-# Estilos de musicas e bandas que curto :musical_note:	
+# Estilos de musicas e bandas que curto 🎵
 
 Eu gosto de vários estilos musicais, sou bastante eclético, costumo dizer que gosto de música boa, seja em qualquer estilo, sendo boa eu curto. Cito algumas bandas e cantores que ouço bastante.
 
 - The Beatles
-
 - Creedence
 - Pearl Jam
 - Bob Dylan
@@ -20,6 +19,7 @@ Eu gosto de vários estilos musicais, sou bastante eclético, costumo dizer que 
 - Aldir Blanc
 - Barão Vermelho
 - Titãs
+- Nenhum de Nós
 - Biquíni Cavadão
 - E muitos outros
 
