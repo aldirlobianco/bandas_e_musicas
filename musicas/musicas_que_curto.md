@@ -20,6 +20,7 @@ Eu gosto de vários estilos musicais, sou bastante eclético, costumo dizer que 
 - Aldir Blanc
 - Barão Vermelho
 - Titãs
+- Biquíni Cavadão
 - E muitos outros
 
 Como podem perceber, tem de tudo, rock, punk, reggae, samba, MPB e etc...
